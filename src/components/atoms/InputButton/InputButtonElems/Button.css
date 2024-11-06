@@ -10,6 +10,7 @@
   line-height: 150%;
   color: white;
   border-style: none;
+  cursor: pointer;
 }
 
 .button:hover {
