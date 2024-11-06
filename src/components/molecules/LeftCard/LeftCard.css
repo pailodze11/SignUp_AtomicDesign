@@ -1,0 +1,8 @@
+.leftcard {
+  flex: 1;
+  padding: 97px 0px 97px 64px;
+  border-radius: 16px;
+  /* background-color: red; */
+  display: flex;
+  flex-direction: column;
+}

@@ -1,0 +1,22 @@
+.button {
+  width: 376px;
+  height: 56px;
+  border-radius: 8px;
+  background-color: #242742;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 150%;
+  color: white;
+  border-style: none;
+}
+
+.button:hover {
+  border-radius: 8px;
+  background: var(
+    --Gradient-1,
+    linear-gradient(204deg, #ff6a3a 0%, #ff527b 100%)
+  );
+  box-shadow: 0px 16px 32px 0px rgba(255, 97, 85, 0.5);
+}
